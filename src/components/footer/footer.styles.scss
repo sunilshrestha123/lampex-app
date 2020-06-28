@@ -1,0 +1,30 @@
+.footer {
+  height: 300px;
+  width: 100%;
+  background: #161616;
+  color: #ffffff;
+  padding: 20px;
+
+  p {
+    font-size: small;
+  }
+}
+.footerend {
+  background: #ffffff;
+  color: #161616;
+  font-size: 16px;
+  padding: 10px 10px 10px;
+  text-align: center;
+}
+.h1 {
+  font-size: 25px;
+  margin: 5px;
+}
+hr.solid {
+  border-bottom: 2px solid #bbb;
+  width: auto;
+}
+.li {
+  font-size: 16px;
+  list-style: none;
+}
